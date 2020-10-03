@@ -1,1 +1,1 @@
-Data structures and their operations
+Data Structures and their operations
