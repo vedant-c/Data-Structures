@@ -9,6 +9,7 @@ class BST:
         self.root=None
 
     def insert(self,data):
+        #ezpz
         new_node=Node(data)
 
         if not self.root:
